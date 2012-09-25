@@ -11,6 +11,7 @@ You may fork this project using the github functionality .
 Usage:
 
 git clone git://github.com/marcolamm/SIPAMA.git
+
 cd SIPAMA
 mvn install
 
